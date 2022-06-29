@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.link{
+    font-size: 24px;
+}
+
+.page{
+    font-size: 96px;
+}
+
+.food.header{
+    font-size: 96px;
+}
+
+.description .list{
+    font-size: 20px;
+}
+
